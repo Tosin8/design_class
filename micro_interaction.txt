@@ -1,8 +1,22 @@
- 7 Simple Microinteractions to Improve Prototypes.
+ 
+Microinteraction
+______________________
+
+7 Simple Microinteractions to Improve Prototypes.
 Source: Toptal. 
 References : using framer studio
 
  The 7 prototypes: 
-* The action button 
+* The action button
+* Interactive switches
+* List item swap action
+* Button loader: It's very useful interaction for actions that require loading or wait times for the user.
+* Pull to refresh
+* Dragging Interaction:  while dragging an item inside an app, there is always something happening with the item itself, Sometimes the item shrinks, maybe other items are blurred, or the opacity changes.
+* Multiple 'like' buttons
 
+________________________________
+Importance of microinteraction in ux
+Source: JustInMind 
+ 
 
