@@ -56,5 +56,18 @@ ______________________________________________
 
 The four parts of microinteraction
 _________________________________________
+1. Triggers: will the user or the system trigger the microinteraction? 
+If it’s the system, what input does it need?
 
+2. Rules: what should happen when the user or system triggers your microinteraction? 
+A tap, a click? A mouse over? A scroll?
+
+3. Feedback: use your microinteraction to communicate what’s happening to your user.
+ Is the page loading? Is the button clickable? Is there another user sending a message?
+
+4. Loops and Modes: think ahead, should the microinteraction
+still be possible after certain conditions have been met?
+If a button is greyed out, should it still change color on mouse over?
+
+ The takeaway - microinteractions
 
