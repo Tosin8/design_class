@@ -18,5 +18,13 @@ References : using framer studio
 ________________________________
 Importance of microinteraction in ux
 Source: JustInMind 
- 
 
+* They boost user retention: creating small moments of delight - 
+     These moments all contribute towards improving the user experience and increasing the likelihood that users will keep using the product.
+* They create WOW moments and enhance branding - 
+     In growth hacking, these moments can also lead a WOW moment, which is the moment which is the point during the onboarding phase when a user establishes that your product is the right fit for them.
+* They boost usability and intuitiveness - 
+       they are a way of providing the user with constant feedback, by telling them both what the system is doing and letting them know when their actions have been successfully registered by the website or app.
+
+Types of microinteraction
+____________________________ 
