@@ -30,9 +30,9 @@ Types of microinteraction
 ____________________________ 
 Understanding fundamentals of the microinteraction.
 
-* Tap effects
+* Tap effects e.g: hearting a tweet on Twitter, Highlighting selected fields on forms
 * Swipe effects
-* Tap and hold effects
+* Tap and hold effects e.g: Facebook react feature button. 
 * Scroll-into-view
 * Pull-to-refresh
 * Progress bar
@@ -40,11 +40,11 @@ Understanding fundamentals of the microinteraction.
 * Sound
 * Button state changes
 * Tactile
-* Mouse over / hover effects
+* Mouse over / hover effects : Hootsuite magnetic cards, 
 * Slide-in/out
 * System feedback
-*Page transitions (fade, explode, etc)
+* Page transitions (fade, explode, etc)
 
-Examples
-_____________________________
-*
+
+Best practices for designing microinteractions
+______________________________________________
