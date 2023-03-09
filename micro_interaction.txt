@@ -28,3 +28,23 @@ Source: JustInMind
 
 Types of microinteraction
 ____________________________ 
+Understanding fundamentals of the microinteraction.
+
+* Tap effects
+* Swipe effects
+* Tap and hold effects
+* Scroll-into-view
+* Pull-to-refresh
+* Progress bar
+* Errors
+* Sound
+* Button state changes
+* Tactile
+* Mouse over / hover effects
+* Slide-in/out
+* System feedback
+*Page transitions (fade, explode, etc)
+
+Examples
+_____________________________
+*
