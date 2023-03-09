@@ -48,3 +48,9 @@ Understanding fundamentals of the microinteraction.
 
 Best practices for designing microinteractions
 ______________________________________________
+* Define what interaction will take place and how long it will last
+* Don’t make a user mouse over an element to reveal more information
+* Don’t drown your design in microinteractions
+* Remember the differences between desktop and mobile interactions
+* Try to keep the mobile and desktop experience as similar as possible
+
