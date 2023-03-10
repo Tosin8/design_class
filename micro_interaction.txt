@@ -69,5 +69,5 @@ A tap, a click? A mouse over? A scroll?
 still be possible after certain conditions have been met?
 If a button is greyed out, should it still change color on mouse over?
 
- The takeaway - microinteractions
-
+ 
+Push Notification Best Practices: 7 Questions Designers Should Ask
