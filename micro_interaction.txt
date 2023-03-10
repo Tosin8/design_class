@@ -71,3 +71,21 @@ If a button is greyed out, should it still change color on mouse over?
 
  
 Push Notification Best Practices: 7 Questions Designers Should Ask
+Source: Toptal
+___________________________________________________________________
+Push notifications are among the most potent tools being used for communicating with users.
+When apps send these short messages, they pop up on devices—even with the screen locked—making them almost impossible to ignore.
+ 
+1. Should Your Message Be a Mobile Push Notification—or Something Else?
+Considering whether it might be more appropriate to send an email or text instead, 
+ * SMS messages are best for time-sensitive or critical information.
+ An airline, for instance, should use SMS messages to communicate gate or schedule changes since a mobile push would not reach passengers who have notification permissions disabled. 
+SMS messages are also better for information that might have to be accessed later, such as an order confirmation, since mobile app push notifications are easily cleared with a single tap
+and are often unretrievable.
+
+Mobile push notifications are effective for delivering important but non-urgent information, 
+such as an announcement about a sale or a request that users agree to new app permissions.
+
+2. Did You Request Permission to Send a Push Notification?
+
+
