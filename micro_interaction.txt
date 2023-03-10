@@ -79,13 +79,22 @@ When apps send these short messages, they pop up on devices—even with the scre
 1. Should Your Message Be a Mobile Push Notification—or Something Else?
 Considering whether it might be more appropriate to send an email or text instead, 
  * SMS messages are best for time-sensitive or critical information.
- An airline, for instance, should use SMS messages to communicate gate or schedule changes since a mobile push would not reach passengers who have notification permissions disabled. 
-SMS messages are also better for information that might have to be accessed later, such as an order confirmation, since mobile app push notifications are easily cleared with a single tap
+ An airline, for instance, should use SMS messages to communicate gate or schedule changes since a mobile push
+ would not reach passengers who have notification permissions disabled. 
+SMS messages are also better for information that might have to be accessed later, such as an order confirmation, 
+since mobile app push notifications are easily cleared with a single tap
 and are often unretrievable.
 
 Mobile push notifications are effective for delivering important but non-urgent information, 
 such as an announcement about a sale or a request that users agree to new app permissions.
 
 2. Did You Request Permission to Send a Push Notification?
+ Many apps ask for permission to send notifications immediately after installation. 
+This makes sense if reminders are essential to an app’s user experience—for instance, to be effective, 
+habit-tracking apps need to regularly nudge users. But in most cases, it’s actually best to wait to ask
+ for permission until someone has used the app a few times and seen the value it provides.
+
+3.Does the Notification Deliver Personalized Value to the User?
+
 
 
