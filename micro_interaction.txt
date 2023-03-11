@@ -142,6 +142,21 @@ That’s why we see progress bars in the checkout process of so many platforms.
  Users want to know their progress, and how long the whole onboarding sequence is –
 and as designers, we like to please users.
 
+3. Make it casual and interactive
+Most people don’t want to be lectured or even attend a class on the brand new app they just downloaded. 
+They want to jump straight into the user experience. That’s why it’s always a good idea to lighten the tone
+ and turn the introductory class into a conversation. The truly great app onboarding sequences out there take
+ this opportunity to add some brand personality, so that the whole thing feels like a simple chat with the app.
+ 
+
+Motivation
+How to make a casual browser an intrigued user
+__________________________________________________
+* An enabling behavior
+* A motivating behavior
+* A constraining behavior
+
+
 
 
  
