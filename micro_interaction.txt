@@ -102,5 +102,46 @@ Source: JustInMind
 _____________________________________________
 
  On app onboarding: the two approaches
-* we can all agree that the design team needs to do everything they can to encourage users to get past the initial learning curve 
+we can all agree that the design team needs to do everything they can to encourage users to get past the initial learning curve 
 and flatten that app abandonment rate.
+1. Have a tailored plan : it’s important to treat  app onboarding as another crucial element in the user experience. 
+Just like we carry out extensive research on who users are and create an entire design around the user’s mental models and personas, 
+we must create an onboarding experience that reflects who the user is.
+
+Types of onboarding
+__________________________________
+* Benefits oriented onboarding
+* Function oriented onboarding
+* Progressive onboarding
+
+Factors to consider 
+________________________
+* Firstly, consider your users. Are they young and tech-savy?
+ Are they familiar with the main function of the app? 
+You want to understand who they are and how much of an introduction they need in order to obtain
+ some benefit from the product.
+Another important aspect of users is their expectations.
+ You don’t want to bombard them with information, 
+but you can’t let the product fall short of expectations.
+
+* Secondly, consider your product. 
+Does it have many different features? Is it complex in nature?
+How long is the learning curve? Can we shorten that curve?
+ You want to showcase the product’s strengths 
+and get the user to see the big advantages that are waiting for them at the end of
+ the learning process.
+
+2. Tell users how much they have left
+Nobody likes waiting. There’s a reason why app onboarding sequences tend to be brief 
+and to the point. Users tend to be excited to try a new app for the first time, 
+to explore and mess around in their own time.
+ Onboarding can be a powerful way to jumpstart that exploration of possibilities, 
+but it can’t stretch on for too long – user’s excitement doesn’t last forever.
+
+That’s why we see progress bars in the checkout process of so many platforms.
+ Users want to know their progress, and how long the whole onboarding sequence is –
+and as designers, we like to please users.
+
+
+
+ 
