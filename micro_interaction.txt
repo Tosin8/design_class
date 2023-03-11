@@ -101,4 +101,6 @@ Mobile app onboarding: best practices and examples
 Source: JustInMind 
 _____________________________________________
 
-
+ On app onboarding: the two approaches
+* we can all agree that the design team needs to do everything they can to encourage users to get past the initial learning curve 
+and flatten that app abandonment rate.
