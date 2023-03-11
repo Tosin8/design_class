@@ -171,7 +171,13 @@ to complete the user profile.
 This is about postponing the things that require either effort of trust,
  giving the user some room to grow more familiar and comfortable with the product and the brand.
 
- 
+The wrap up: 
+App onboarding is all about getting users to see the big benefits of having the app and showcasing 
+the strongest points of the design. While there’s no one-size-fits-all approach when it comes to 
+onboarding experiences, there’s a general goal of helping the user get set up and giving them the 
+tools to enjoy the experience.
+
+
 
 
 
