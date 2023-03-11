@@ -156,6 +156,23 @@ __________________________________________________
 * A motivating behavior
 * A constraining behavior
 
+4. Know the right moment to ask for things
+This is a simple matter that can still arouse strong feelings in users. 
+Some people simply don’t like apps bombarding them with requests to grant permissions,
+ like push notifications, or personal information, like billing data. When it comes to onboarding, 
+there’s such a thing as overstepping.
+
+This is worth remembering when it comes to permissions, grants, sensitive information and even tasks 
+that require general effort from users.
+ For example, many great apps out there allow users to signup, 
+explore and have fun before they start asking for more information 
+to complete the user profile.
+
+This is about postponing the things that require either effort of trust,
+ giving the user some room to grow more familiar and comfortable with the product and the brand.
+
+ 
+
 
 
 
