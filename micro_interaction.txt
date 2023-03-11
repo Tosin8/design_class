@@ -95,6 +95,10 @@ habit-tracking apps need to regularly nudge users. But in most cases, it’s act
  for permission until someone has used the app a few times and seen the value it provides.
 
 3.Does the Notification Deliver Personalized Value to the User?
+ 
 
+Mobile app onboarding: best practices and examples
+Source: JustInMind 
+_____________________________________________
 
 
