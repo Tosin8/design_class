@@ -183,7 +183,77 @@ An Ultimate Guide to Improve User Experience
 Source: explainard 
 ______________________________
 
+7 Types of Microinteractions
 
+There are many types of microinteractions. When to use one always depends on your purpose and case. 
+We’ve gathered some of them.
+
+1. Tap or Click 
+You may have seen a button that can move when you hover on it on a website. 
+That kind of microinteraction aims to tell visitors that the button is clickable. 
+In many cases, tap or click microinteractions intend to drive action and conversion.
+
+2. Hold Effects
+Hold microinteractions are the best option for dropdown menus.
+ It’s most suitable for mobile apps since they perform in limited screen space. 
+For example, you can tap and hold the like button to bring out more reactions to a Facebook post.
+
+3. Slide or Swipe Effects 
+Slide or swipe microinteractions are best to pinpoint navigation or movement. 
+For example, you can see the swipe simple animation in Instagram stories and
+ slide microinteractions in a dating app.
+
+4. Scroll-into-view
+Scroll-into-view microinteractions intend to give more explanations, 
+information, or options on a topic. This type of microinteractions is best for
+ mobile apps.
+
+5. Pull-to-refresh
+Sometimes you need to pull your smartphone screen to refresh a page. 
+When you do that, you can add microinteractions, such as loading animations,
+ to make the waiting less boring.
+
+6. Progress Bars
+A progress bar usually comes to show the progress of something.
+ You can easily find progress bars when uploading or downloading a file and submitting a form on a page.
+
+7. Error Sounds
+Error sounds primarily help users avoid mistakes when performing an action on a page. 
+Sometimes, an error sound also plays a role as a notification to the users.
+
+4 Reasons Why Microinteractions Are Important
+While developing a website or app, minding about the microinteractions is
+ vital to give users a wonderful cyber surfing experience.
+
+There are more fundamental reasons why microinteractions are essential
+ to web or app developers, which follows:
+
+1. Make the Interface More User Friendly
+Microinteractions can make the interface more user-friendly with visual or
+ audio feedback for every action they take. 
+
+Microinteractions can also guide users to take the next step
+ without getting confused easily.
+
+2. Create a More Delightful Experience
+As microinteractions escort users during their interface time, 
+they will experience a smooth web surfing experience. 
+
+When users have a delightful browsing experience, it can increase web engagement,
+ gather visitors, and build loyal users.
+
+3. Make the Interface More Human
+Microinteractions also intend to make the interaction two-way so that users
+ don’t feel completely communicating with machines.
+Users won’t feel alone during their interface, including during loading,
+ filling forms, or waiting for progress.
+
+4. Prevent Users Make Errors
+One of the most valuable advantages of microinteractions is to prevent 
+users from making errors. Like when confirming a new password or filling 
+out a tangible form.
+When users make a mistake or error, microinteractions will give feedback so that 
+users can fix it immediately.
 
 
 
