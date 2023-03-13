@@ -1,6 +1,6 @@
  
 Microinteraction
-______________________
+__________________________________________________________________
 
 7 Simple Microinteractions to Improve Prototypes.
 Source: Toptal. 
@@ -12,10 +12,11 @@ References : using framer studio
 * List item swap action
 * Button loader: It's very useful interaction for actions that require loading or wait times for the user.
 * Pull to refresh
-* Dragging Interaction:  while dragging an item inside an app, there is always something happening with the item itself, Sometimes the item shrinks, maybe other items are blurred, or the opacity changes.
+* Dragging Interaction:  while dragging an item inside an app, there is always something happening with the item itself,
+Sometimes the item shrinks, maybe other items are blurred, or the opacity changes.
 * Multiple 'like' buttons
 
-________________________________
+__________________________________________________
 Importance of microinteraction in ux
 Source: JustInMind 
 
@@ -45,7 +46,6 @@ Understanding fundamentals of the microinteraction.
 * System feedback
 * Page transitions (fade, explode, etc)
 
-
 Best practices for designing microinteractions
 ______________________________________________
 * Define what interaction will take place and how long it will last
@@ -58,13 +58,10 @@ The four parts of microinteraction
 _________________________________________
 1. Triggers: will the user or the system trigger the microinteraction? 
 If it’s the system, what input does it need?
-
 2. Rules: what should happen when the user or system triggers your microinteraction? 
 A tap, a click? A mouse over? A scroll?
-
 3. Feedback: use your microinteraction to communicate what’s happening to your user.
  Is the page loading? Is the button clickable? Is there another user sending a message?
-
 4. Loops and Modes: think ahead, should the microinteraction
 still be possible after certain conditions have been met?
 If a button is greyed out, should it still change color on mouse over?
@@ -84,16 +81,13 @@ Considering whether it might be more appropriate to send an email or text instea
 SMS messages are also better for information that might have to be accessed later, such as an order confirmation, 
 since mobile app push notifications are easily cleared with a single tap
 and are often unretrievable.
-
 Mobile push notifications are effective for delivering important but non-urgent information, 
 such as an announcement about a sale or a request that users agree to new app permissions.
-
 2. Did You Request Permission to Send a Push Notification?
  Many apps ask for permission to send notifications immediately after installation. 
 This makes sense if reminders are essential to an app’s user experience—for instance, to be effective, 
 habit-tracking apps need to regularly nudge users. But in most cases, it’s actually best to wait to ask
  for permission until someone has used the app a few times and seen the value it provides.
-
 3.Does the Notification Deliver Personalized Value to the User?
  
 
@@ -115,7 +109,7 @@ __________________________________
 * Progressive onboarding
 
 Factors to consider 
-________________________
+_____________________________________________________
 * Firstly, consider your users. Are they young and tech-savy?
  Are they familiar with the main function of the app? 
 You want to understand who they are and how much of an introduction they need in order to obtain
@@ -130,18 +124,15 @@ How long is the learning curve? Can we shorten that curve?
  You want to showcase the product’s strengths 
 and get the user to see the big advantages that are waiting for them at the end of
  the learning process.
-
 2. Tell users how much they have left
 Nobody likes waiting. There’s a reason why app onboarding sequences tend to be brief 
 and to the point. Users tend to be excited to try a new app for the first time, 
 to explore and mess around in their own time.
  Onboarding can be a powerful way to jumpstart that exploration of possibilities, 
 but it can’t stretch on for too long – user’s excitement doesn’t last forever.
-
 That’s why we see progress bars in the checkout process of so many platforms.
  Users want to know their progress, and how long the whole onboarding sequence is –
 and as designers, we like to please users.
-
 3. Make it casual and interactive
 Most people don’t want to be lectured or even attend a class on the brand new app they just downloaded. 
 They want to jump straight into the user experience. That’s why it’s always a good idea to lighten the tone
@@ -161,13 +152,11 @@ This is a simple matter that can still arouse strong feelings in users.
 Some people simply don’t like apps bombarding them with requests to grant permissions,
  like push notifications, or personal information, like billing data. When it comes to onboarding, 
 there’s such a thing as overstepping.
-
 This is worth remembering when it comes to permissions, grants, sensitive information and even tasks 
 that require general effort from users.
  For example, many great apps out there allow users to signup, 
 explore and have fun before they start asking for more information 
 to complete the user profile.
-
 This is about postponing the things that require either effort of trust,
  giving the user some room to grow more familiar and comfortable with the product and the brand.
 
@@ -181,73 +170,61 @@ tools to enjoy the experience.
  Microinteractions: 
 An Ultimate Guide to Improve User Experience
 Source: explainard 
-______________________________
+______________________________________________________________________
 
 7 Types of Microinteractions
 
 There are many types of microinteractions. When to use one always depends on your purpose and case. 
 We’ve gathered some of them.
-
 1. Tap or Click 
 You may have seen a button that can move when you hover on it on a website. 
 That kind of microinteraction aims to tell visitors that the button is clickable. 
 In many cases, tap or click microinteractions intend to drive action and conversion.
-
 2. Hold Effects
 Hold microinteractions are the best option for dropdown menus.
  It’s most suitable for mobile apps since they perform in limited screen space. 
 For example, you can tap and hold the like button to bring out more reactions to a Facebook post.
-
 3. Slide or Swipe Effects 
 Slide or swipe microinteractions are best to pinpoint navigation or movement. 
 For example, you can see the swipe simple animation in Instagram stories and
  slide microinteractions in a dating app.
-
 4. Scroll-into-view
 Scroll-into-view microinteractions intend to give more explanations, 
 information, or options on a topic. This type of microinteractions is best for
  mobile apps.
-
 5. Pull-to-refresh
 Sometimes you need to pull your smartphone screen to refresh a page. 
 When you do that, you can add microinteractions, such as loading animations,
  to make the waiting less boring.
-
 6. Progress Bars
 A progress bar usually comes to show the progress of something.
  You can easily find progress bars when uploading or downloading a file and submitting a form on a page.
-
 7. Error Sounds
 Error sounds primarily help users avoid mistakes when performing an action on a page. 
 Sometimes, an error sound also plays a role as a notification to the users.
 
+_______________________________________________________________________
 4 Reasons Why Microinteractions Are Important
 While developing a website or app, minding about the microinteractions is
  vital to give users a wonderful cyber surfing experience.
-
 There are more fundamental reasons why microinteractions are essential
  to web or app developers, which follows:
 
 1. Make the Interface More User Friendly
 Microinteractions can make the interface more user-friendly with visual or
  audio feedback for every action they take. 
-
 Microinteractions can also guide users to take the next step
  without getting confused easily.
-
 2. Create a More Delightful Experience
 As microinteractions escort users during their interface time, 
 they will experience a smooth web surfing experience. 
-
 When users have a delightful browsing experience, it can increase web engagement,
  gather visitors, and build loyal users.
-
 3. Make the Interface More Human
 Microinteractions also intend to make the interaction two-way so that users
  don’t feel completely communicating with machines.
 Users won’t feel alone during their interface, including during loading,
  filling forms, or waiting for progress.
-
 4. Prevent Users Make Errors
 One of the most valuable advantages of microinteractions is to prevent 
 users from making errors. Like when confirming a new password or filling 
