@@ -233,6 +233,18 @@ When users make a mistake or error, microinteractions will give feedback so that
 users can fix it immediately.
 
 
+Common uses of microinteractions
+_________________________________________________________________
+1. Swiping and Scrolling : they are easy and intuitive for users without requiring them to think of the next actions. 
+Users can swipe to the left and right to unlock more chapters and scroll up and sown to read more information. 
+2. Typing: mostly engage by social media platform.
+3. Downloading
+4. Data input: being helpful in many ways like - stressing certain obligatory columns, showing form filling progress, notifying the password
+usage and strength level. 
+5. Highlighting current system status: Example: when uploading a document/picture, microinteractions can inform the current progress.
+6. Making tutorial more powerful
+7. Showing CTAs
+8. Showing notifications
 
 
  
