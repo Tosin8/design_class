@@ -55,4 +55,12 @@ Heuristic Principles of mobile interfaces
 Source: Toptal
 _______________________________________________________________
 * Usability heursitics begin with user needs - 
-   Before jumping into the set of principles, it must be recognized that the importance of the 
+   Before jumping into the set of principles, it must be recognized that the importance of the user continues to grow. 
+   Always start with user needs, if i don't know what the user needs, i wouldn't build the right thing. 
+   
+  Heuristics principles for usability evaluations help identify where a UI design is falling short: 
+  1. Transparency of system sturcture - 
+      the act of making certain elements and structures visible so the user has a sufficient understanding
+      of context. 
+  2. Immediacy of action feedback - 
+     The response to a user's action that confirms the system has received the request. 
