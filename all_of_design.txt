@@ -42,12 +42,17 @@ typefaces or the same typefaces sometimes and alos similar styles.
 It creates contrast and tension in a design composition and it can be intriguing for the viewers, using the 
 different shape and typefaces in an element aslong it shows out the concept of the design. 
 
-
-
-8. Movement - 
+10. Movement - 
 It refers to the path our eyes takes through a design composition
 
-9. Proportion - 
+11. Proportion - 
 It's the sense of unity created when all of the design elements in a composition relate well to each other and that can 
 add balance and harmony. The absence of proportion will make 
 
+
+
+Heuristic Principles of mobile interfaces
+Source: Toptal
+_______________________________________________________________
+* Usability heursitics begin with user needs - 
+   Before jumping into the set of principles, it must be recognized that the importance of the 
