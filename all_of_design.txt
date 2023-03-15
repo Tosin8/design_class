@@ -64,3 +64,11 @@ _______________________________________________________________
       of context. 
   2. Immediacy of action feedback - 
      The response to a user's action that confirms the system has received the request. 
+
+Anticipatory Design:
+How to Create Magical User Experiences
+______________________________________________________
+
+
+
+ 
