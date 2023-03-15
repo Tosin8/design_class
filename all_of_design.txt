@@ -68,6 +68,11 @@ _______________________________________________________________
 Anticipatory Design:
 How to Create Magical User Experiences
 ______________________________________________________
+ 
+Anticipatory design is the UX technique of simplifying processes 
+and responding to user needs one step before they actually express those needs,
+ simplifying user decisions and leading to magical experiences.
+
 
 
 
