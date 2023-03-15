@@ -63,7 +63,8 @@ _______________________________________________________________
       the act of making certain elements and structures visible so the user has a sufficient understanding
       of context. 
   2. Immediacy of action feedback - 
-     The response to a user's action that confirms the system has received the request. 
+     The response to a user's action that confirms the system 
+     has received the request. 
 
 Anticipatory Design:
 How to Create Magical User Experiences
@@ -71,8 +72,28 @@ ______________________________________________________
  
 Anticipatory design is the UX technique of simplifying processes 
 and responding to user needs one step before they actually express those needs,
- simplifying user decisions and leading to magical experiences.
+simplifying user decisions and leading to magical experiences.
 
+It can also be defined as the output, without much need for input.
+ It’s about leveraging past choices to predict future decisions.
+ 
+
+Anticipatory design’s promise is the elimination of friction and an increase 
+in efficiency that would greatly improve user experiences, and in turn impact 
+the bottom line. 
+People return to products and services that deliver
+ what they want when they want it.
+
+How do we bring anticipatory design into play?
+________________________________________________
+Until we have incredibly sophisticated predictive algorithms, 
+fully developed AI, and machine learning, businesses can mine 
+existing data for personalization opportunities thereby reducing potential pain 
+points and barriers.
+ 
+ 
+
+ 
 
 
 
