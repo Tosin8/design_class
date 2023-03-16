@@ -97,7 +97,13 @@ E-commerce UX: An Overview of Best Practices
 Source: Toptal
 __________________________________
 
+*Mobile friendly
+* Scale
+* Information
+* Pinch
+* Checkout
 
+ 
  
 
  
