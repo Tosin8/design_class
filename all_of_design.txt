@@ -95,9 +95,9 @@ points and barriers.
 
 E-commerce UX: An Overview of Best Practices 
 Source: Toptal
-_____________________________________________
+__________________________________
 
-
+ <a href="https://www.toptal.com/designers/ux/ecommerce-ux-best-practices-infographic?utm_source=embed&utm_medium=blog"><img src="https://uploads.toptal.io/blog/image/129341/toptal-blog-image-1552281814810-e2b1bf945c33bab1c7a05f624dbdcbd9.png" alt="Infographic" style="max-width:860px"></a>Infographic by <a href="https://www.toptal.com/designers/ux/ecommerce-ux-best-practices-infographic?utm_source=embed&utm_medium=blog">Toptal</a>
  
 
  
