@@ -102,7 +102,13 @@ __________________________________
 * Information: display the right amount of information in product listings
 * Pinch: allowing pinch gestures to zoom in on product images on mobile. 
 * Checkout: making checkouts short, the average checkout flow has 15 form fields. 
-* Auto
+* Auto-format fields: card number fields should allow spaces 
+* Input masks: using localized input masks and other restricted inputs, especially on mobile.
+* Thumbnails: showing all product image thumbnails, truncating additional images causes.
+* Inline validation: do live inline form validation for transactions. 
+* Required/Optional : mark both required and optional fields explicitly for speedy checkouts
+* Expiration date: make the expiration date inputs exactly the same format as the credit card
+* Ratings summary
 
  
  
