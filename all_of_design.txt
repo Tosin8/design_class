@@ -97,11 +97,12 @@ E-commerce UX: An Overview of Best Practices
 Source: Toptal
 __________________________________
 
-*Mobile friendly
-* Scale
-* Information
-* Pinch
-* Checkout
+* Mobile friendly: making it mobile-compatible. 
+* In Scale: a product needs at least one 'in scale' image so people can get a sense of its size. 
+* Information: display the right amount of information in product listings
+* Pinch: allowing pinch gestures to zoom in on product images on mobile. 
+* Checkout: making checkouts short, the average checkout flow has 15 form fields. 
+* Auto
 
  
  
