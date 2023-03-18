@@ -112,7 +112,16 @@ __________________________________
 
 Understanding the basics
 _______________________________________________________
-1. What is a mobile first approach? 
+1. What is a mobile first approach? A mobile first approach designing for the smallest screen first and then moving up. 
+If a site works well on mobile then it will convert more successfully on other devices. 
+2. What is ecommerce design? Ecommerce Ux design is designing for ecommerce (banking, buying or selling over the internet) sites specifically. 
+It provides superior user experience, takes into account best practices, gives a biz an edge over the competition and helps 
+to broaden a brand's reach. 
+3. What is touch gesture? They are hidden controls that let users interact with screen elements using touch. The standard set are: tap,double tap, drag,flick, pinch, spead, press & tap, press&drag&rotate. 
+4. What is form design? Form design is the creation of web forms (eg: contact,shipping,registration etc) that visitors use to submit their 
+information. 
+5. What is an input mask? It is a database/data entry term and controls what a user can enter in a form field by 
+forcing them to enter data in a specific format.
  
  
 
