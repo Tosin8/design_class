@@ -8,48 +8,36 @@ Principles of design are the principles designers make to create appealing work 
 1. Balance - 
 It creats stability in a design piece and every elements on a page carries a visual weight it may be 
 scales, shapes, colors, textures etc. A lack of balance may make a project to looks like it is falling on one side. 
-
 2. Unity - 
 It's an harmony produced in all design element piece, making the elements to create relationship organically as possible. 
-
 3. Contrast - 
 It refers to the different level between design elements to create visual hierarchies, helping the viewer to go to certain
 elements because they stand out more and it can be used to create a focal point. 
-
 4. Emphasis - 
 Its a strategy used to get viewer's attention to a specific design elements and can be used through the use of colors, 
 lines and positive,negative relationships. 
 Note: The moments contrast is created, emphasis will follow. Lack of emphasis will make it looks dull and boring. 
-
 5. Repetition - 
 It's repeting the same elements through a design to create consistency, it can be of the same typeface, same graphics elements or even a 
 grid. Repetition is based on single element.
-
 6. Pattern - 
 It's a multiple repetition of design elements that will help enhance the viewer's experience of the final design. Patterns are based on 
 multiple elements that just expand through. 
-
 7. Rhythm - 
 It's the visual tempo of a combination of elements used repeatedly throughout design and with variation , this helps create
 movements but it's an organized type of movement. 
-
 8. Harmony - 
 It's a sense of cohesiveness between the elements in a design composition, the element in a composition shouldn't be
 all the same but it should be somehow related and this can be done through the same color palette similar
 typefaces or the same typefaces sometimes and alos similar styles. 
-
 9. Variety - 
 It creates contrast and tension in a design composition and it can be intriguing for the viewers, using the 
 different shape and typefaces in an element aslong it shows out the concept of the design. 
-
 10. Movement - 
 It refers to the path our eyes takes through a design composition
-
 11. Proportion - 
 It's the sense of unity created when all of the design elements in a composition relate well to each other and that can 
 add balance and harmony. The absence of proportion will make 
-
-
 
 Heuristic Principles of mobile interfaces
 Source: Toptal
@@ -69,16 +57,13 @@ _______________________________________________________________
 Anticipatory Design:
 How to Create Magical User Experiences
 ______________________________________________________
- 
-Anticipatory design is the UX technique of simplifying processes 
+ Anticipatory design is the UX technique of simplifying processes 
 and responding to user needs one step before they actually express those needs,
 simplifying user decisions and leading to magical experiences.
 
 It can also be defined as the output, without much need for input.
  It’s about leveraging past choices to predict future decisions.
- 
-
-Anticipatory design’s promise is the elimination of friction and an increase 
+ Anticipatory design’s promise is the elimination of friction and an increase 
 in efficiency that would greatly improve user experiences, and in turn impact 
 the bottom line. 
 People return to products and services that deliver
@@ -90,7 +75,6 @@ Until we have incredibly sophisticated predictive algorithms,
 fully developed AI, and machine learning, businesses can mine 
 existing data for personalization opportunities thereby reducing potential pain 
 points and barriers.
-
 
 
 E-commerce UX: An Overview of Best Practices 
