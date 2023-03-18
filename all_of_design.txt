@@ -110,6 +110,9 @@ __________________________________
 * Expiration date: make the expiration date inputs exactly the same format as the credit card
 * Ratings summary
 
+Understanding the basics
+_______________________________________________________
+1. What is a mobile first approach? 
  
  
 
