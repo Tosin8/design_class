@@ -116,5 +116,10 @@ can reduce the risks of getting lost in their search for the perfect product.
 
 Design thinking non-linear model are: improve, ideate and test. 
 
-
+The design thinking process are divided into 5 stages: 
+1. Emphatize
+2. Define
+3. Ideate
+4. Prototype
+5. Test
  
