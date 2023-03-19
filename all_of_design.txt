@@ -107,9 +107,10 @@ information.
 5. What is an input mask? It is a database/data entry term and controls what a user can enter in a form field by 
 forcing them to enter data in a specific format.
  
- 
 
- 
+Guide to design thinking for UX designers
+____________________________________________________
+
 
 
 
