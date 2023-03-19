@@ -110,8 +110,11 @@ forcing them to enter data in a specific format.
 
 Guide to design thinking for UX designers
 ____________________________________________________
+What is design thinking? - It's a workflow that creative professionals can use for guidance
+during the creative process.By following certain steps and organizing tasks such as user research, designers
+can reduce the risks of getting lost in their search for the perfect product.
 
-
+Design thinking non-linear model are: improve, ideate and test. 
 
 
  
