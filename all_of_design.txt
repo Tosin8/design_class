@@ -174,3 +174,7 @@ hypothesis to be validated.
 
 Benefits of being lean: 
 ______________________________
+1. it is cost effective
+2. it saves time
+3. It's user centered
+4. It's data driven
