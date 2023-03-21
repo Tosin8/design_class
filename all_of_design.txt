@@ -154,3 +154,23 @@ theme( the overaching idea behind the story ), and dialoge(what the characters a
 
 The full guide to lean Ux
 __________________________________
+What is Lean Ux? 
+It's an approach to designing and crafting user experiences. It is about letting the validation
+of hypotheses guide the work of the design team, implies that designers dont make decisions based on their gut or thier
+preferences, there are only hypotheses here.
+
+5 cycles: 
+1. Save effort, time and money
+2. Work with hypotheses not opionions
+3. Design approach to hypothesis validation
+4. It helps to know if we create a products that people want and need. 
+5. Design approach to hypothesis validation. 
+
+Hypothesis and validation helps to know if we're making products people want and need, the framework is about
+gradual progress. 
+
+Instead of thinking of a product as a series of features to be built, learn Ux looks at a product as a set of 
+hypothesis to be validated. 
+
+Benefits of being lean: 
+______________________________
