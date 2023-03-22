@@ -183,5 +183,18 @@ The lean UX process
 _________________________________
 Lean Ux is driven by 3 main concepts: think, make and check. Lean Ux is a cycle that keeps going 
 around, with the product improving and advancing every time the cycle is completed and started again. 
-THINK: 
+THINK: it refers to creating assumptions about any given problem and what you think you know about that particular area. These 
+assumptions are important because eventually, providing new knowledge which will be turned into hyptheses that can be tested.
+
+Other aspects of the think stage involve: 
+* Research
+* Ideation
+* Mental models
+* Sketches
+* Storyboards
+
+Make involves designing a Minimum Viable Product (MVP). 
+
+What is MVP? 
+
 
