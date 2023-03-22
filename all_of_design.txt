@@ -196,5 +196,15 @@ Other aspects of the think stage involve:
 Make involves designing a Minimum Viable Product (MVP). 
 
 What is MVP? 
+____________________________________
+MVP is the bare minimum needed to engage audience and start an iteration feedback loop. An MVP might be 
+a landing page to a product that doesn't exist yet to guage customer interest. 
+
+Other ways to create own MVP: 
+* Protoypes
+* Wireframes
+* Value propositions
+* Landing pages
+* Hypotheses
 
 
