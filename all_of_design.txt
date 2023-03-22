@@ -178,3 +178,10 @@ ______________________________
 2. it saves time
 3. It's user centered
 4. It's data driven
+
+The lean UX process
+_________________________________
+Lean Ux is driven by 3 main concepts: think, make and check. Lean Ux is a cycle that keeps going 
+around, with the product improving and advancing every time the cycle is completed and started again. 
+THINK: 
+
