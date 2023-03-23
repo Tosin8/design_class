@@ -220,5 +220,11 @@ that use field entries to gather data.
  With that said, there is a wide variety of forms 
 and many functions that each of them serve.
 
+Key concepts in form design
+______________________________
+* Data gathering
+* Conversion
+
+
 
 
