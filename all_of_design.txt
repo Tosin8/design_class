@@ -210,4 +210,15 @@ Other ways to create own MVP:
 Complete guide to form design
 ________________________________
 
+Most users wouldn't be able to define exactly what makes 
+a good form. However, we all recognize bad 
+form design when we see it.
+
+What is a form?
+A form is considered to be a series of questions 
+that use field entries to gather data.
+ With that said, there is a wide variety of forms 
+and many functions that each of them serve.
+
+
 
