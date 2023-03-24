@@ -220,7 +220,11 @@ the next stage is developing hypotheses.
  To test an assumption, you simply transform it
  into a hypothesis. This is useful for identifying any gaps 
 in your thinking.
-* 
+
+5 Lean design hacks to improve product success
+__________________________________________________
+
+
 
 Complete guide to form design
 ________________________________
