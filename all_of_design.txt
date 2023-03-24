@@ -223,6 +223,33 @@ in your thinking.
 
 5 Lean design hacks to improve product success
 __________________________________________________
+*Create your own Meetup group
+* Discard your idea and pivot in another direction
+* Design personas
+* Take advantage of heuristics : heuristics
+Heuristics are rules of thumb. They’re not set in stone 
+but can be used as a set of useful guidelines when navigating 
+uncharted territory. If you’re making a product for the first time, 
+heuristics can give you pointers on what to do and what not to do.
+* Use an MVP design canvas: Designing an MVP is easier said than done.
+ But they’re valuable for speeding up learning, decreasing waste and encouraging
+ iterations. All too often, though, when we’re in a Lean cycle, we’re prone to losing 
+focus or forgetting the bigger picture.
+
+The canvas has 7 sections:
+
+Early customers
+Unmet needs
+Value proposition
+Your solution
+Unfair advantage
+Early Metrics
+Key assumptions
+
+* Tell people what you’re doing : Yes, building and creating a 
+successful product is hard work. Very hard work. Who has time for
+ other people when you’re trying to change the world one user 
+experience at a time?
 
 
 
