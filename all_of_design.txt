@@ -207,6 +207,11 @@ Other ways to create own MVP:
 * Landing pages
 * Hypotheses
 
+The main tenets of the Lean UX methodology
+___________________________________________
+* Assumptions
+* 
+
 Complete guide to form design
 ________________________________
 
