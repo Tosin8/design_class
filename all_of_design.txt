@@ -209,7 +209,17 @@ Other ways to create own MVP:
 
 The main tenets of the Lean UX methodology
 ___________________________________________
-* Assumptions
+* Assumptions :The reason that assumptions play a big
+ role in Lean UX is the shift from the traditional 
+requirements/deliverables method.
+ Instead of relying on requirements, the focus is turned towards
+ creating a problem statement.
+* Hypothesis: After you write a problem statement,
+ identify and select your main assumptions, 
+the next stage is developing hypotheses.
+ To test an assumption, you simply transform it
+ into a hypothesis. This is useful for identifying any gaps 
+in your thinking.
 * 
 
 Complete guide to form design
