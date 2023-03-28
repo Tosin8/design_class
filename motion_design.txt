@@ -29,6 +29,21 @@ Free software for story boarding: Storyboarder from wonder-unit.
 
 Glossary
 ____________________________________
-1. 
-
-
+1. Aspect ratio: The relationship between the width and the height of an image. Aspect ratios are 
+written as two numbers with a colon separating them. The first number represents the width of the 
+image, while the second number refers to the height. 
+2. Frame: A storyboard is divided into individual frames, which are represented as square/rectangular 
+boxes. Each frame depicts a specific moment/event in the story. 
+3. Shot: It's a series of continuous actions and is typically made up of a sequence of frames. 
+4. Scamps: In its initial stage, a storyboard should be made up of rough sketches. 
+5. Script: Every good storyboard starts with a script, there's a need to agree on a starting 
+point before making things visual.
+6. Shot list: It's a checklist that describes each individual shot in details, it outlines what
+exactly will happen in the scene and what is required for the scene to be successful. 
+7. Voiceover
+8. Dialogue: It refers to a conversation that takes place between two or more characters in a 
+story. 
+9. Style frame: A full color image that helps to establish the overall look of a piece of film
+or animation. 
+10. Sound effects
+111. Animatic: A series of images played in sequence, often with a soundtrack. 
