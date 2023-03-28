@@ -17,11 +17,18 @@ called 'Scramping', is where script is turn from something written into somethin
 
  Guidelines in scramping process
  _______________________________________
-    - Choose the aspect ratio: 
+    - Choose the aspect ratio: Films are often shot in 16:9, whereas social media videos are often square/9:16 i.e 
+    instagram stories. The apsect ratio will dictate the frame image.
+   - Keep it rough: scamps are rough by definition, they are for me to see - not the world
+   - Keep it moving
+   - Consider contiunity
 * Edit the storyboard to flesh out the film's most important visual cues such as the time of day for 
-a scene, lighting, composition and layering.
+a scene, lighting, composition, camera movement and layering.
 * NOTE: camera movements for shots such as zooms, pans, tilts, dollies, trucks and pedestals.
 Free software for story boarding: Storyboarder from wonder-unit.
 
+Glossary
+____________________________________
+1. 
 
 
