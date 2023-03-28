@@ -12,10 +12,16 @@ key creative decision in the PREPRODUCTION PROCESS.
 How to make a storyboard in 4 steps
 ________________________________________________________
 * Make a storyboard template online using storyboarding software or start with a piece of paper.
-* Draw the storyboard frames but keep it rough, simple and leave out intricate visual details.
+* Draw the storyboard frames but keep it rough, simple and leave out intricate visual details : sketching out the frames, a process
+called 'Scramping', is where script is turn from something written into something visual. 
+
+ Guidelines in scramping process
+ _______________________________________
+    - Choose the aspect ratio: 
 * Edit the storyboard to flesh out the film's most important visual cues such as the time of day for 
 a scene, lighting, composition and layering.
 * NOTE: camera movements for shots such as zooms, pans, tilts, dollies, trucks and pedestals.
 Free software for story boarding: Storyboarder from wonder-unit.
+
 
 
