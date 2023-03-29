@@ -33,6 +33,7 @@ The monitor emits these colors, so they are made of light and not ink.
  it ranges from 0–255 e.g. R= 255, G =255, B=255
  or RBG=255,255,255 is white while RGB= 0, 0, 0 is black.
 
+ RGBA → Use for UI Design
 
 
  
