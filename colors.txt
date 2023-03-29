@@ -22,6 +22,17 @@ is the base of all other print colors. These are also the four colors
  found in your home printer and professional printshops.
 
 RGB → Use for UI Design
+ RGB
+RGB stands for red, green, and blue. 
+The monitor emits these colors, so they are made of light and not ink.
+ The color spectrum of light is larger than print.
+ Due to their different systems, print and screen colors will never
+ match 100%.
+
+ When giving RGB values in UI design,
+ it ranges from 0–255 e.g. R= 255, G =255, B=255
+ or RBG=255,255,255 is white while RGB= 0, 0, 0 is black.
+
 
 
  
