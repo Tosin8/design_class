@@ -17,5 +17,11 @@ which is why it is mainly used for logos or brand elements
  CMYK.
 
 CMYK → Use for PRINT
+ Mixing the four colors, cyan, magenta, yellow, and key (black), 
+is the base of all other print colors. These are also the four colors
+ found in your home printer and professional printshops.
+
+RGB → Use for UI Design
+
 
  
