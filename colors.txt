@@ -1,3 +1,21 @@
 The ultimate guide to color
 Source: UX planet
 _______________________________
+ Colors can be noted down in different ways, and the most 
+common ones you will probably come across are: 
+ Pantone, CMYK, HEX, and RGB.
+
+ We only use HEX and RBG in screen design.
+
+Pantone: use for print.
+It is an exact mix of ink, so it is the same color globally. 
+You cannot print Pantone on your home printer.
+ 
+it is usually more expensive to print Pantone colors 
+which is why it is mainly used for logos or brand elements
+ that need to match across different media, the rest stays is in
+ CMYK.
+
+CMYK → Use for PRINT
+
+ 
