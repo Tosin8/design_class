@@ -34,6 +34,10 @@ The monitor emits these colors, so they are made of light and not ink.
  or RBG=255,255,255 is white while RGB= 0, 0, 0 is black.
 
  RGBA → Use for UI Design
+ Is the same as RGB, the A stands for an additional alpha channel. 
+Alpha regulates the transparency from 0.0 (fully transparent) and 1.0 (fully opaque).
+So for example RGBA = 255, 255, 255, 0.5 would be white with 50% transparency.
+
 
 
  
