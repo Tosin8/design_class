@@ -41,3 +41,5 @@ So for example RGBA = 255, 255, 255, 0.5 would be white with 50% transparency.
 Note: Colors in print and screen design will never be perfectly aligned as they are created in 
 different ways: print by mixiing ink, screen by combining light. 
  
+Kinds in color wheel
+_________________________________
