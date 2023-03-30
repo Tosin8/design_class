@@ -43,3 +43,4 @@ different ways: print by mixiing ink, screen by combining light.
  
 Kinds in color wheel
 _________________________________
+1. Monochromatic
