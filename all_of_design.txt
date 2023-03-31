@@ -271,6 +271,17 @@ ______________________________
 * Data gathering
 * Conversion
 
+Shopping for Apparel in an online world: UI/Ux design for virtual clothing try-on
+__________________________________________________________________________________
+Using VIRTUAL TRY-ON technology to simulate the experience of trying on clothes and accessories 
+in real life. 
 
-
+How are AR and VR are reshaping apparel ECommerce
+_________________________________________________________
+1. Virtual Try-on provides users with larage, sharp images and clearly demonstrates how clothes
+will look when worn, either on the customer or someone of similar brand. 
+2. Using AR to show a garment or accessory on an image/video of a person in real life and its' also available for 
+cosmetics. 
+3. The challenge to achieive tends to difficult because allowing it to drape with you would require thousands of 
+polygons, the geometric building blocks that make up the 3D model. 
 
