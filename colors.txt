@@ -57,3 +57,7 @@ Tint → hue to which white was added
 
 Tone → hue to which grey was added
 
+
+60, 30, 10 Rule for color distribution
+__________________________________________
+
