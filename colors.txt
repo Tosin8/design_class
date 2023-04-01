@@ -49,4 +49,11 @@ _________________________________
 
 Play with it: Hue, Shade, Tint & Tone
 ________________________________________
- 
+ Hue → hue is the pure color, without any shade tint or tone. So if we go around the outer part of the color wheel, we change the hue.
+
+Shade → hue to which black has been added.
+
+Tint → hue to which white was added
+
+Tone → hue to which grey was added
+
