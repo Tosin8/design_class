@@ -60,4 +60,5 @@ Tone → hue to which grey was added
 
 60, 30, 10 Rule for color distribution
 __________________________________________
-
+60% for your base, 30% secondary color and 10% your
+primary highlight colour for CTAs.
