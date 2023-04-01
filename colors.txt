@@ -45,3 +45,8 @@ Kinds in color wheel
 _________________________________
 1. Monochromatic
 2. 
+
+
+Play with it: Hue, Shade, Tint & Tone
+________________________________________
+ 
